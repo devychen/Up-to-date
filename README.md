@@ -3,7 +3,7 @@
 #### NLP Conference <br>
 1. _Annual Meeting of the Association for Computational Linguistics_ [ACL](https://2024.aclweb.org/). Papers could be accessed [here](https://aclanthology.org/venues/acl/)
 2. _Empirical Methods in Natural Language Processing_ [EMNLP](https://2023.emnlp.org/). Papers could be accessed [here](https://aclanthology.org/events/emnlp-2023/)
-3. _IEEE International Joint Conference on Neural Networks_ [IEEE](https://www.ieee.org/conferences/index.html)
+3. _IEEE International Joint Conference on Neural Networks_ [IEEE](https://2023.ijcnn.org/). Papers available [here](https://ieeexplore.ieee.org/xpl/conhome/1000500/all-proceedings)
 4. _North American Chapter of the Association for Computational Linguistics_ [NAACL]
 5. _International Conference on Computational Linguistics_ [COLING]
 
