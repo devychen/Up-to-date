@@ -2,7 +2,7 @@
 
 Personalised Papaer Recommender: [Scholar Inbox](https://www.scholar-inbox.com/) <br>
 
-##### Journals
+#### Journals
 1. [ACL](https://aclanthology.org/)
 2. IEEE Transactions on Pattern Analysis and Machine Intelligence [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 3. [arXiv](https://arxiv.org/)
