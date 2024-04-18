@@ -31,4 +31,6 @@ Personalised Papaer Recommender: [Scholar Inbox](https://www.scholar-inbox.com/)
 3. ECCV
 4. AAAI
 
-##### Journals
+##### Journals (AI & CS in general)
+1. [arXiv](https://arxiv.org/)
+
