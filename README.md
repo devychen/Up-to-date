@@ -29,3 +29,5 @@ Personalised Papaer Recommender: [Scholar Inbox](https://www.scholar-inbox.com/)
 3. ECCV
 4. AAAI
 
+#### Additional Notes
+1. [Seminar](https://keggensperger.github.io/teaching/2024-summer-seminar) AutoML in the Age of Large Pre-trained Models.
