@@ -15,7 +15,7 @@ One hands-on project of my own (use thesis)
 ### Module Plan
 **M1**: $6$ (AI in Stem) + $9$ (<ins>TBA</ins>) <br>
 **M2**: $15$ (CL + DSA 1 & 2 + NLP 1 & 2) <br>
-**M3**: $6$ (ULLM) + $9$ (**1.0** <ins>LLM</ins>) <br>
+**M3**: $6$ (ULLM) + $9$ (**1.0** LLM) <br>
 **M4**: $6$ (Data Science) + $3$ (**1.7** Digital Humanities) + $6$ (**1.0** Low Resource) <br>
 **M5**: $6$ (Figurative NLP) + $9$ (<ins>TBA</ins>) <br>
 **M6**: $6$ (Linear Algebra) + $9$ (**1.0** Pedagogical Agents) <br>
